@@ -1,6 +1,6 @@
 ![Header](https://res.cloudinary.com/dn4dxdwur/image/upload/v1697385752/bfmy1csgbturec02go9p.png)
 
-### Hi there 👋
+### Front-End developer (HTML5, CSS3, JavaScript, React, Redux, Next.js)
 
 <!--
 **nadiia-tsytsylina/nadiia-tsytsylina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
