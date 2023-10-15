@@ -2,6 +2,7 @@
 
 ### Front-End developer, from Ukraine 🇺🇦
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nadiia-tsytsylina)](https://github.com/nadiia-tsytsylina/github-profile-trophy)
 
 <!--
 ## Front-End developer [HTML5, CSS3, JavaScript, React, Redux, Next.js]
