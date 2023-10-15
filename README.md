@@ -6,6 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadiia-tsytsylina)](https://github.com/nadiia-tsytsylina/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/?username=your-github-nadiia-tsytsylina&color=f8d3d5)
+
 <!--
 ## Front-End developer [HTML5, CSS3, JavaScript, React, Redux, Next.js]
 **nadiia-tsytsylina/nadiia-tsytsylina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
