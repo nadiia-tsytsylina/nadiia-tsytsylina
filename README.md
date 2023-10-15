@@ -1,6 +1,6 @@
 ![Header](https://github.com/nadiia-tsytsylina/nadiia-tsytsylina/blob/main/header.png?raw=true)
 
-### Front-End developer, from Ukraine &#127482;&#127462;
+### Front-End developer, from Ukraine U+1f1fa U+1f1e6;
 
 
 <!--
