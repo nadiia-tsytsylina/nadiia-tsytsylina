@@ -2,6 +2,11 @@
 
 ### Front-End developer, from Ukraine 🇺🇦
 
+I possess HTML, CSS, JavaScript, and React knowledge. I have a talent for quickly acquiring new skills and absorbing new information. Also, I have experience in following Agile /Scrum methodology when working in a team. I am diligent in completing my tasks promptly and never fail to meet deadlines.
+
+Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / JS / HTML5 / CSS3
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiia-tsytsylina&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadiia-tsytsylina&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadiia-tsytsylina&theme=buefy)
