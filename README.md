@@ -1,8 +1,10 @@
 ![Header](https://github.com/nadiia-tsytsylina/nadiia-tsytsylina/blob/main/header.png?raw=true)
 
-## Front-End developer [HTML5, CSS3, JavaScript, React, Redux, Next.js]
+### Front-End developer, from Ukraine 🇺🇦
+
 
 <!--
+## Front-End developer [HTML5, CSS3, JavaScript, React, Redux, Next.js]
 **nadiia-tsytsylina/nadiia-tsytsylina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
