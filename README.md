@@ -1,4 +1,4 @@
-![Header](https://res.cloudinary.com/dn4dxdwur/image/upload/v1697385752/bfmy1csgbturec02go9p.png)
+![Header](https://github.com/nadiia-tsytsylina/nadiia-tsytsylina/blob/main/header.png?raw=true)
 
 ### Front-End developer (HTML5, CSS3, JavaScript, React, Redux, Next.js)
 
