@@ -5,7 +5,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiia-tsytsylina&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadiia-tsytsylina&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadiia-tsytsylina&theme=buefy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadiia-tsytsylina&theme=buefy&utcOffset=2)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadiia-tsytsylina)](https://github.com/nadiia-tsytsylina/github-profile-trophy)
