@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadiia-tsytsylina)](https://github.com/nadiia-tsytsylina/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiia-tsytsylina)](https://git.io/streak-stats)
+
 <!--
 ## Front-End developer [HTML5, CSS3, JavaScript, React, Redux, Next.js]
 **nadiia-tsytsylina/nadiia-tsytsylina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
