@@ -12,7 +12,7 @@ Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / JS / HTML5 / CSS3
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadiia-tsytsylina&theme=buefy)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nadiia-tsytsylina)](https://github.com/nadiia-tsytsylina/github-profile-trophy)
+
 
 
 
@@ -22,6 +22,8 @@ Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / JS / HTML5 / CSS3
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiia-tsytsylina&layout=compact)](https://github.com/nadiia-tsytsylina/github-readme-stats)
 
 profile views: ![](https://komarev.com/ghpvc/?username=your-github-nadiia-tsytsylina&color=f8d3d5)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nadiia-tsytsylina)](https://github.com/nadiia-tsytsylina/github-profile-trophy)
 
 **nadiia-tsytsylina/nadiia-tsytsylina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
