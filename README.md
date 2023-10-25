@@ -1,4 +1,4 @@
-![Header](https://github.com/nadiia-tsytsylina/nadiia-tsytsylina/blob/main/header.png?raw=true)
+![Header](https://github.com/nadiia-tsytsylina/nadiia-tsytsylina/blob/main/banner.png?raw=true)
 
 ## Front-End developer, from Ukraine 🇺🇦
 
