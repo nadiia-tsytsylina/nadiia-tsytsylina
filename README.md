@@ -2,6 +2,8 @@
 
 ## Front-End developer, from Ukraine 🇺🇦
 
+[My Portfolio](https://nadiia-tsytsylina.github.io/portfolio/)
+
 I possess HTML, CSS, JavaScript, and React knowledge. I have a talent for quickly acquiring new skills and absorbing new information. Also, I have experience in following Agile /Scrum methodology when working in a team. I am diligent in completing my tasks promptly and never fail to meet deadlines.
 
 Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / JS / HTML5 / CSS3
