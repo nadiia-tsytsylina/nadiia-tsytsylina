@@ -10,7 +10,7 @@ I have experience working in Team Challenge on a team project, where I was one o
 Successfully completed a three-month internship at ZenBitTech on Full-Stack developer position. During this time, I mastered many new technologies and improved my skills. After the internship, I can say with confidence that my approach to writing code has radically changed and I gained incredible work experience
 Also, I have experience in following Agile /Scrum methodology when working in a team. I am diligent in completing my tasks promptly and never fail to meet deadlines.
 
-Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / MYSQL/ NEST JS / TYPEORM / JS / TS / HTML5 / CSS3
+Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / MYSQL / NEST JS / TYPEORM / JS / TS / HTML5 / CSS3
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiia-tsytsylina&theme=buefy)
