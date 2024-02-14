@@ -4,9 +4,13 @@
 
 [My Portfolio](https://nadiia-tsytsylina.github.io/portfolio/)
 
-I possess HTML, CSS, JavaScript, and React knowledge. I have a talent for quickly acquiring new skills and absorbing new information. Also, I have experience in following Agile /Scrum methodology when working in a team. I am diligent in completing my tasks promptly and never fail to meet deadlines.
+I'm a Junior Front-End developer. I possess HTML, CSS, JavaScript, TypeScript, React and Next.js knowledge. I have experience working on both team and individual projects.
+I have been coding for more, than 1 year and during this time I have done 5 successful team projects and 5 individual ones. 
+I have experience working in Team Challenge on a team project, where I was one of two Frontend Developers.
+Successfully completed a three-month internship at ZenBitTech on Full-Stack developer position. During this time, I mastered many new technologies and improved my skills. After the internship, I can say with confidence that my approach to writing code has radically changed and I gained incredible work experience
+Also, I have experience in following Agile /Scrum methodology when working in a team. I am diligent in completing my tasks promptly and never fail to meet deadlines.
 
-Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / JS / HTML5 / CSS3
+Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / MYSQL/ NEST JS / TYPEORM / JS / TS / HTML5 / CSS3
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiia-tsytsylina&theme=buefy)
