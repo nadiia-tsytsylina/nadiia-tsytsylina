@@ -1,6 +1,4 @@
-![Header](https://github.com/nadiia-tsytsylina/nadiia-tsytsylina/blob/main/banner.png?raw=true)
-
-## Full_Stack developer, from Ukraine 🇺🇦
+## Full-Stack developer, from Ukraine 🇺🇦
 
 [My Portfolio](https://nadiia-tsytsylina.github.io/portfolio/)
 
