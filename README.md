@@ -1,16 +1,39 @@
 ![Header](https://github.com/nadiia-tsytsylina/nadiia-tsytsylina/blob/main/banner.png?raw=true)
 
-## Front-End developer, from Ukraine 🇺🇦
+## Full_Stack developer, from Ukraine 🇺🇦
 
 [My Portfolio](https://nadiia-tsytsylina.github.io/portfolio/)
 
-I'm a Junior Front-End developer. I possess HTML, CSS, JavaScript, TypeScript, React and Next.js knowledge. I have experience working on both team and individual projects.
-I have been coding for more, than 1 year and during this time I have done 5 successful team projects and 5 individual ones. 
-I have experience working in Team Challenge on a team project, where I was one of two Frontend Developers.
-Successfully completed a three-month internship at ZenBitTech on Full-Stack developer position. During this time, I mastered many new technologies and improved my skills. After the internship, I can say with confidence that my approach to writing code has radically changed and I gained incredible work experience
-Also, I have experience in following Agile /Scrum methodology when working in a team. I am diligent in completing my tasks promptly and never fail to meet deadlines.
+I am a high-performing software engineer capable of working in a highly agile software development process. Experienced in covering complex tasks with tight deadlines.
 
-Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / MYSQL / NEST JS / TYPEORM / JS / TS / HTML5 / CSS3
+I successfully completed a three-month internship at ZenBitTech as a Full-Stack Developer. During that time, I explored a wide range of technologies, strengthened my problem-solving skills, and gained hands-on experience that fundamentally shaped my approach to coding.
+
+Currently, I work at CGS-Team as a Full-Stack Developer, bringing real-world commercial experience to my projects. I take pride in quickly learning new tools and frameworks, writing clean and maintainable code, and always striving to meet deadlines without compromising quality.
+
+I love challenges that push me to grow, enjoy collaborating with teammates, and believe that every project is an opportunity to learn something new and make a meaningful impact.
+
+Skills: 
+- HTML5 / CSS3 (Responsive / Adaptive design)
+- JavaScript
+- TypeScript
+- React
+- Redux Toolkit
+- RTK Query
+- Zustand
+- ReactQuery
+- Next.js
+- Styled Components
+- Tailwind CSS
+- Radix UI, Material UI
+- Node.js
+- Nest.js (REST API, WebSockets, Cron jobs)
+- Stripe Integration
+- MongoDB
+- MySQL
+- PostgreSQL
+- TypeORM
+- Git
+- Webpack
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiia-tsytsylina&theme=buefy)
@@ -28,7 +51,7 @@ Skills: REACT / NEXT JS / REDUX / NODE JS / MONGODB / MYSQL / NEST JS / TYPEORM 
 
 
 <!--
-## Front-End developer [HTML5, CSS3, JavaScript, React, Redux, Next.js]
+## Full-Stack developer [HTML5, CSS3, JavaScript, React, Redux, Next.js]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiia-tsytsylina&layout=compact)](https://github.com/nadiia-tsytsylina/github-readme-stats)
 
